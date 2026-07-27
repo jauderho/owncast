@@ -20,7 +20,7 @@
 	"devDependencies": {
 		"jest": "^29.7.0",
 		"jest-jasmine2": "^29.7.0",
-		"ws": "^7.5.9"
+		"ws": "^7.5.11"
 	},
 	"jest": {
 		"verbose": false,
