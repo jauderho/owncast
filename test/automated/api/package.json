@@ -14,7 +14,7 @@
 		"bcrypt": "^5.1.1",
 		"crypto-random": "^2.0.1",
 		"jsonfile": "^6.1.0",
-		"supertest": "^6.3.2",
+		"supertest": "^7.2.2",
 		"websocket": "^1.0.32"
 	},
 	"devDependencies": {
